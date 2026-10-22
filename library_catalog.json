@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert Martin",
+    "isbn": "978-0134685991",
+    "is_borrowed": true,
+    "borrowed_by": "Binay",
+    "due_date": "2026-11-05"
+  },
+  {
+    "title": "Python Cookbook",
+    "author": "David Beazley",
+    "isbn": "978-0596517748",
+    "is_borrowed": true,
+    "borrowed_by": "Jane Doe",
+    "due_date": "2026-11-05"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andy Hunt",
+    "isbn": "978-0132350884",
+    "is_borrowed": false,
+    "borrowed_by": null,
+    "due_date": null
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "isbn": "978-1491946008",
+    "is_borrowed": false,
+    "borrowed_by": null,
+    "due_date": null
+  }
+]
